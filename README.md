@@ -1,49 +1,76 @@
-🧑‍💻 About Me
+<!-- Profile README – polished template -->
 
-📍 Based in Dublin, Ireland
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=<your‑github‑user>&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
-💼 Currently interning as a Business Process Analyst @ SAP COE where I have boosted multi‑terabyte SQL workloads by 200‑300 % through index design, refactoring and telemetry‑driven tuning.
+<h1 align="center">Hey, I’m <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <strong>Dan Russuleac</strong></h1>
 
-🎓 Final‑year CS student at Technological University Dublin graduating in September 2025 with a 1:1 distinction.
+<p align="center"><em>CS Student · Performance tinkerer · Inspiring Developer</em></p>
 
-🛠️ Passionate about Python, advanced SQL, Azure, and turning performance data into actionable insight.
+---
 
-🌱 Currently exploring LLM function‑calling and containerised DevOps.
+## 🧑‍💻 About Me
 
-🚀 Featured Projects
+* 📍 **Based in:** Dublin, Ireland
+* 💼 **Business Process Analyst Intern @ SAP COE**
+  • Turbo‑charged multi‑terabyte SQL workloads by **200–300 %** via index design & telemetry‑driven tuning.
+* 🎓 **Final‑year CS student**, Technological University Dublin (1:1 expected Sept 2025)
+* 🛠️ **Love working with:** Python · Advanced SQL · Azure · Performance analytics
+* 🌱 **Currently exploring:** LLM function‑calling · Containerised DevOps
 
-Project
+---
 
-Tech
+## 🚀 Featured Projects
 
-What I built
+| Project                                   | Tech Stack                                            | Highlights                                                                                       |
+| ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **MindCare – AI mental‑health companion** | React 18 · Node/Express · PostgreSQL · Docker Compose | GPT‑driven chatbot, sleep‑pattern analytics, JWT auth, one‑command local stack                   |
+| **FitnessApp (Android)**                  | Java · Android SDK · Firebase                         | Tracks steps & workouts, computes health score, gamifies goals with achievements & notifications |
+| **MusicVisuals**                          | Processing/Java · OpenGL                              | Real‑time 2D/3D audio‑responsive visualisations with custom shaders & interactive controls       |
 
-MindCare – AI‑powered mental‑health companion
+> ℹ️ Dive into these and more in my **pinned repositories**!
 
-React 18, Node/Express, PostgreSQL, Docker Compose
+---
 
-🎯 GPT‑driven chatbot, sleep‑pattern analytics, JWT auth, and one‑command local stack. Demonstrates full‑stack architecture & advanced SQL views.
+## 🛠️ Languages & Tools
 
-FitnessApp (Android)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-Java, Android SDK, Firebase
+---
 
-📲 Tracks steps & workouts, calculates health score, and gamifies goals with achievements and notifications.
+## 📊 GitHub Stats
 
-MusicVisuals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanRussuleac&show_icons=true&theme=default&include_all_commits=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanRussuleac&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRussuleac&layout=compact"/>
+</p>
 
-Processing/Java, OpenGL
+---
 
-🎵 Real‑time 2D/3D sound‑responsive visualisations with custom shaders and interactive controls.
+## 🤝 Connect With Me
 
-🔗 Explore these and more in my pinned repositories!
+<p align="center">
+  <a href="https://www.linkedin.com/in/<your‑linkedin‑id>/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:<you>@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://<your‑personal‑site>.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
-🛠️ Languages & Tools
+---
 
-Python • SQL (PostgreSQL | MySQL | Azure SQL | Oracle) • Java • JavaScript
-React • Node.js/Express • Azure • Docker • Git • Linux • UML • ERD
-
-📊 GitHub Stats
-
-🤝 Connect With Me
-
+<details>
+<summary>⚡ Fun Fact</summary>
+When I’m not optimising SQL queries, you’ll find me creating them!
+</details>
