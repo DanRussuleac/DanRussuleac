@@ -1,9 +1,5 @@
 <!-- Profile README – polished template -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=<your‑github‑user>&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
 <h1 align="center">Hey, I’m <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <strong>Dan Russuleac</strong></h1>
 
 <p align="center"><em>CS Student · Performance tinkerer · Inspiring Developer</em></p>
